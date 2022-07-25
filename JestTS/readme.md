@@ -38,4 +38,4 @@ install:
  ```
  npm install --save jest-coverage-badges
  ```
-[![borys](./coverage/badge-branches.svg)](./coverage/lcov-report/index.html)
+![borys](./coverage/badge-branches.svg)
