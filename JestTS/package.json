@@ -1,0 +1,20 @@
+{
+  "name": "jestts3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest && jest-coverage-badges"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-jest": "^28.0.7"
+  },
+  "dependencies": {
+    "jest-coverage-badges": "^1.0.0"
+  }
+}
